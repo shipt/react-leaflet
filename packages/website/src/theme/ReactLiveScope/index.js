@@ -5,7 +5,7 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-import * as core from '@react-leaflet/core'
+import * as core from '@shipt/react-leaflet-core'
 import * as L from 'leaflet'
 import React from 'react'
 import * as ReactLeaflet from 'react-leaflet'

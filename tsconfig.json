@@ -3,8 +3,8 @@
   "compilerOptions": {
     "baseUrl": "./packages",
     "paths": {
-      "@react-leaflet/core": ["core/src"],
-      "react-leaflet": ["react-leaflet/src"]
+      "@shipt/react-leaflet-core": ["core/src"],
+      "@shipt/react-leaflet": ["react-leaflet/src"]
     }
   }
 }

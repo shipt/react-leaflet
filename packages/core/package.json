@@ -1,6 +1,6 @@
 {
-  "name": "@react-leaflet/core",
-  "version": "1.1.1",
+  "name": "@shipt/react-leaflet-core",
+  "version": "1.1.2",
   "description": "React Leaflet core",
   "main": "cjs/index.js",
   "module": "esm/index.js",
@@ -41,8 +41,8 @@
   ],
   "peerDependencies": {
     "leaflet": "^1.7.1",
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react": "^17.0.1 || ^16.14.0",
+    "react-dom": "^17.0.1 || ^16.14.0"
   },
   "jest": {
     "testEnvironment": "jsdom"

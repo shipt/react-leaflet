@@ -4,7 +4,7 @@ import {
   LeafletElement,
   SetOpenFunc,
   createOverlayComponent,
-} from '@react-leaflet/core'
+} from '@shipt/react-leaflet-core'
 import {
   LatLngExpression,
   Tooltip as LeafletTooltip,
