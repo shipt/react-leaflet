@@ -1,5 +1,5 @@
 const targets = {
-  node: 'current',
+  node: '12',
   browsers: [
     'last 2 Chrome versions',
     'last 2 Edge versions',
